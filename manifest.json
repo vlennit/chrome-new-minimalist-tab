@@ -1,0 +1,9 @@
+{
+    "name": "Chrome's new minimalist tab",
+    "description": "",
+    "manifest_version": 3,
+    "version": "1.0",
+    "icons": {
+        "128": "icon.png"
+    }
+}
