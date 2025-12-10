@@ -3,6 +3,9 @@
     "description": "",
     "manifest_version": 3,
     "version": "1.0",
+    "chrome_url_overrides": {
+        "newtab": "overrides/newtab.html"
+    },
     "icons": {
         "128": "icon.png"
     }
